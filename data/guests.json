@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fullName": "Анна Смирнова",
+    "email": "anna@mail.com",
+    "phone": "+375 29 111-22-33",
+    "country": "Беларусь"
+  },
+  {
+    "id": 2,
+    "fullName": "Иван Петров",
+    "email": "ivan@mail.com",
+    "phone": "+375 29 444-55-66",
+    "country": "Россия"
+  },
+  {
+    "id": 3,
+    "fullName": "Мария Ковалёва",
+    "email": "maria@mail.com",
+    "phone": "+375 29 777-88-99",
+    "country": "Польша"
+  }
+]
